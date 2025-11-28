@@ -3,6 +3,7 @@
 Elayyan Mariam
 582-101 Domaines mulitimédias
 Session d’automne
+28 novembre 2025
 
 
 ## Pourquoi TIM? 
@@ -49,14 +50,17 @@ Le développent est un métier qui m'intéresse, puisqu'il me permet d'exprimer 
 ####  Illustration:
 
 J’aimes dessiner et raconter visuellement. C’est une carrière créative me permettant de transformer une idée en image. En plus, il permet de travailler dans différents secteurs intéressant comme l’édition, les jeux vidéo, l’animation, BD, manga…
-<img width="4241" height="81" alt="moodboard du powerpoint" src="https://github.com/user-attachments/assets/493e4dad-cc79-45eb-9d6f-277cec79da3f" />
 
-[Visit Online Markdown Editor](https://onlinemarkdown.com)  
 
-![Markdown Logo](https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg)
 
 ## Conclusion
 
 En conclusion, j’ai un bon équilibre entre le côté artistique et technique. Je me déconcentre parfois, mais je suis motivée à apprendre, à explorer différents domaines du multimédia et à progresser. Je voudrait examiner davantage les différents aspects du multimédia pour découvrir ce qui m’attire le plus. En même temps, je veux me concentrer sur l’apprentissage des logiciels et outils essentiels.
-<img width="6612" height="88" alt="image" src="https://github.com/user-attachments/assets/3f910028-1968-4004-9610-26c43cbfaf85" />
+
+## Liens
+
+[Moodboard](https://github.com/user-attachments/assets/c2a7b6e5-8e97-4d92-b5cb-545981ffea04)  
+
+[carte-mentale](https://github.com/user-attachments/assets/3e42c5fb-f3dd-4326-9595-ece599e56bdb) 
+
 
